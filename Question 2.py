@@ -2,7 +2,7 @@
 #Solution for Question 2
 """
 Question 2:
-Counting the pairs with k different from an integer list 
+Counting the pairs with k difference from an integer list 
 eg: list = [1, 3,5] and k = 2 
 expected: we will have 2 pairs: {(1,3), (3,5)} 
 Note: we also consider the negative numbers.
